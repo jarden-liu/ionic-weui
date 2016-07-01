@@ -1,0 +1,25 @@
+{
+  "name": "ionic-weui",
+  "description": "官方weui基础上，适配ionic框架微调后的版本",
+  "main": "dist/weui.min.js",
+  "authors": [
+    "jarden-liu"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "weui",
+    "wechat",
+    "weixin",
+    "css",
+    "ionic",
+    "ion"
+  ],
+  "homepage": "https://github.com/jarden-liu/ionic-weui",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
