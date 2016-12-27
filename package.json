@@ -1,6 +1,6 @@
 {
   "name": "ionic-weui",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "description": "官方weui基础上，适配ionic框架微调后的版本",
   "keywords": [
     "weui",
